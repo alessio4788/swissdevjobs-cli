@@ -5,3 +5,4 @@ description = "Search & apply to ~4,700 salary-transparent tech jobs across 7 co
 requires-python = ">=3.10"
 # guard against empty input
 # keep defaults in sync with the manifest
+# drop an unused branch
