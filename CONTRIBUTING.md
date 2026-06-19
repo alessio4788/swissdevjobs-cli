@@ -30,3 +30,4 @@ Notes and usage details for swissdevjobs-cli.
 - link the usage section
 - link the usage section
 - link the usage section
+- link the usage section
